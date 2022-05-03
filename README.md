@@ -2,6 +2,8 @@
 
 This API app sends random greeting messages through JSON
 
+You can have a look at the Front-end repository in this [link](https://github.com/williamrolando88/Hello-Rails-Front-End)
+
 ## 🧩 Built With
 
 - Ruby
@@ -18,14 +20,12 @@ This API app sends random greeting messages through JSON
 1. Clone the project using git-bash or Githup Desktop.
 2. Open the project folder with VSCode or any Editor.
 3. Open terminal and navigate to the project folder.
-4. Set up database for test enviroment with `rails db:migrate RAILS_ENV=test`
-5. Run test with `rspec spec`
 
 ## 💻📱 Live Preview
 
 <!-- There is no Live Demo available at the moment -->
 
-If you want to see a live demo of this project, [click here](https://salty-ridge-11900.herokuapp.com/home)
+If you want to see a live demo of this project, take a look at the default front-end interface at this [link](https://deploy-preview-1--wr88-hello-rails-front-end.netlify.app/)
 
 ## Authors
 
