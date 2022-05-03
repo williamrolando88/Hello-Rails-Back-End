@@ -1,4 +1,4 @@
-# Recipe App
+# Hello Rails - Back-end
 
 This API app sends random greeting messages through JSON
 
